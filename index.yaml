@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  helm-operator:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-01-18T02:38:39.479832285-08:00"
+    description: A Helm chart for Kubernetes
+    digest: 64e02463b32cf676cfb76fec75c719e1c65100b4df893603a3e89315d2419e73
+    name: helm-operator
+    type: application
+    urls:
+    - https://github.com/SubashSaravanan/helm-repo.git/helm-operator-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-01-18T02:38:39.479075517-08:00"
